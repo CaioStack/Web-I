@@ -2,7 +2,7 @@
 
 * 4° Semestre - T2
 
-**Aluno:** Caio Salgado Marques
+**Dev:** Caio Salgado Marques
 
 ## 📚 Atividades
 
