@@ -2,7 +2,7 @@
 
 * 4° Semestre - T2
 
-**Dev:** Caio Salgado Marques
+**Aluno:** Caio Salgado Marques
 
 ## 📚 Atividades
 
@@ -34,3 +34,9 @@
 | Projeto 5 | [Repositório](https://github.com/caioalt/projeto5) | [Página](https://caioalt.github.io/projeto5/) |
 | Projeto 6 | [Repositório](https://github.com/caioalt/projeto6) | [Página](https://caioalt.github.io/projeto6/) |
 | Projeto 7 | [Repositório](https://github.com/caioalt/projeto7) | [Página](https://caioalt.github.io/projeto7/) |
+
+## 💻 Oficina de Tecnologia
+
+| Atividade             | Repositório                                                  | GitHub Pages                                            |
+| --------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| Oficina de Tecnologia | [Repositório](https://github.com/caioalt/oficina-tecnologia) | [Página](https://caioalt.github.io/oficina-tecnologia/) |
